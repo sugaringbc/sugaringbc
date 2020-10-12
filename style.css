@@ -768,6 +768,69 @@ tr:last-child td.last {
 	}
 }
 
+@media only screen and (max-width : 429px){
+
+	.intro{
+		width: 429px; 
+	}
+}
+
+@media only screen and (max-width : 428px){
+
+	.intro{
+		width: 428px; 
+	}
+}
+
+@media only screen and (max-width : 427px){
+
+	.intro{
+		width: 427px; 
+	}
+}
+
+@media only screen and (max-width : 426px){
+
+	.intro{
+		width: 426px; 
+	}
+}
+
+@media only screen and (max-width : 425px){
+
+	.intro{
+		width: 425px; 
+	}
+}
+
+@media only screen and (max-width : 424px){
+
+	.intro{
+		width: 424px; 
+	}
+}
+
+@media only screen and (max-width : 423px){
+
+	.intro{
+		width: 423px; 
+	}
+}
+
+@media only screen and (max-width : 422px){
+
+	.intro{
+		width: 422px; 
+	}
+}
+
+@media only screen and (max-width : 421px){
+
+	.intro{
+		width: 421px; 
+	}
+}
+
 @media only screen and (max-width : 420px){
 
 	.intro{
@@ -786,6 +849,69 @@ tr:last-child td.last {
 
 	table{
 		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 419px){
+
+	.intro{
+		width: 419px; 
+	}
+}
+
+@media only screen and (max-width : 418px){
+
+	.intro{
+		width: 418px; 
+	}
+}
+
+@media only screen and (max-width : 417px){
+
+	.intro{
+		width: 417px; 
+	}
+}
+
+@media only screen and (max-width : 416px){
+
+	.intro{
+		width: 416px; 
+	}
+}
+
+@media only screen and (max-width : 415px){
+
+	.intro{
+		width: 415px; 
+	}
+}
+
+@media only screen and (max-width : 414px){
+
+	.intro{
+		width: 414px; 
+	}
+}
+
+@media only screen and (max-width : 413px){
+
+	.intro{
+		width: 413px; 
+	}
+}
+
+@media only screen and (max-width : 412px){
+
+	.intro{
+		width: 412px; 
+	}
+}
+
+@media only screen and (max-width : 411px){
+
+	.intro{
+		width: 411px; 
 	}
 }
 
