@@ -353,6 +353,7 @@ h3{
 }
 
 .tabletwo{
+	display: none;
 	visibility: hidden;
 	position: absolute;
 	
