@@ -810,6 +810,69 @@ tr:last-child td.last {
 	}
 }
 
+@media only screen and (max-width : 409px){
+
+	.intro{
+		width: 409px; 
+	}
+}
+
+@media only screen and (max-width : 408px){
+
+	.intro{
+		width: 408px; 
+	}
+}
+
+@media only screen and (max-width : 407px){
+
+	.intro{
+		width: 407px; 
+	}
+}
+
+@media only screen and (max-width : 406px){
+
+	.intro{
+		width: 406px; 
+	}
+}
+
+@media only screen and (max-width : 405px){
+
+	.intro{
+		width: 405px; 
+	}
+}
+
+@media only screen and (max-width : 404px){
+
+	.intro{
+		width: 404px; 
+	}
+}
+
+@media only screen and (max-width : 403px){
+
+	.intro{
+		width: 403px; 
+	}
+}
+
+@media only screen and (max-width : 402px){
+
+	.intro{
+		width: 402px; 
+	}
+}
+
+@media only screen and (max-width : 401px){
+
+	.intro{
+		width: 401px; 
+	}
+}
+
 @media only screen and (max-width : 400px){
 
 	.header__logo{
@@ -845,6 +908,34 @@ tr:last-child td.last {
 
 	table{
 		margin-left: 12%;
+	}
+}
+
+@media only screen and (max-width : 399px){
+
+	.intro{
+		width: 399px; 
+	}
+}
+
+@media only screen and (max-width : 398px){
+
+	.intro{
+		width: 398px; 
+	}
+}
+
+@media only screen and (max-width : 397px){
+
+	.intro{
+		width: 397px; 
+	}
+}
+
+@media only screen and (max-width : 396px){
+
+	.intro{
+		width: 396px; 
 	}
 }
 
