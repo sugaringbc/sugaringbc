@@ -337,6 +337,7 @@ h3{
 
 .prices{
 
+	
 
 
 	border-bottom: 2px solid #5c2715;
@@ -353,7 +354,8 @@ h3{
 
 .tabletwo{
 	visibility: hidden;
-
+	position: absolute;
+	
 	border-bottom: 2px solid #5c2715;
 }
 
@@ -481,7 +483,6 @@ tr:last-child td.last {
 	margin-bottom: 30px;
 }
 
-
 @media only screen and (max-width : 480px) {
 
 
@@ -598,6 +599,66 @@ tr:last-child td.last {
 
 	.con__img{
 		display: none;
+	}
+}
+
+@media only screen and (max-width : 375px){
+
+	.header__logo{
+		margin-left: 8%;
+	}
+
+	.intro{
+		width: 375px; 
+	}
+
+	.intro__title{
+		margin-top: 90%;
+		font-size: 40px;
+	}
+
+	.intro__subtitle{
+		margin-left: 0px;
+	}
+
+	.intro__inner{
+		margin-left: 0px;
+	}
+
+	.btn{
+		margin-left: 28px;
+	}
+
+	.history__text{
+		margin-left: 1%;
+	}
+
+	.fichers__icon{
+		width: 120px;
+		height: 120px;
+		margin-left: 37%;
+	}
+
+	.rules__title{
+		font-size: 25px;
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 9%;
+	}
+
+	.con__name{
+		margin-left: 3px;
 	}
 }
 
@@ -733,12 +794,12 @@ tr:last-child td.last {
 	}
 
 	.prices{
-		display: none;
+		
 	}
 
 	.tabletwo{
 		
-		visibility: visible;
+		visibility: hidden;
 	}
 
 	table{
@@ -769,5 +830,6 @@ tr:last-child td.last {
 		display: none;
 	}
 }
+
 
 
