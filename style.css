@@ -31,6 +31,8 @@ p {
 
 }
 
+
+
 /*Header
 ==================*/
 
@@ -339,8 +341,8 @@ h3{
 
 	
 
-
 	border-bottom: 2px solid #5c2715;
+	
 }
 
 .prices__title{
@@ -454,8 +456,8 @@ tr:last-child td.last {
 	display: flex;
 	margin: 30px 0;
 	font-family: 'Oswald', sans-serif;
+	
 	border-bottom: 2px solid #5c2715;
-
 }
 
 .con__title{
@@ -482,6 +484,85 @@ tr:last-child td.last {
 	text-align: center;
 
 	margin-bottom: 30px;
+}
+
+@media only screen and (max-width : 1199px) {
+	
+	.intro{
+		width: 1199px;
+	}
+
+	.intro__inner{
+		margin-left: 22%;
+
+	}
+}
+
+@media only screen and (max-width : 991px) {
+
+	.nav{
+		margin-right: 250px;
+	}
+
+	.nav__tell{
+		display: none;
+	}
+
+	.intro{
+		width: 991px;
+	}
+
+	.intro__inner{
+		margin-left: 20%;
+
+	}
+
+	.rules__item{
+		margin-left: 15%;
+	}
+
+	.fichers__name{
+		
+		margin-left: 38%;
+
+	}
+}
+
+@media only screen and (max-width : 767px) {
+	
+	.nav__tell{
+		display: none;
+	}
+
+	.intro{
+		width: 767px;
+	}
+
+	.intro__inner{
+		margin-left: 75px;
+
+	}
+
+	.fichers__icon{
+		height: 200px; 
+		width: 200px;
+		margin-bottom: 0px;
+		display: inline-block;
+	}
+
+	.fichers__name{
+		margin-top: -25px;
+		font-size: 28px;
+
+	}
+
+	.nav{
+		margin-right: 50px;
+	}
+
+	.rules__item{
+		margin-left: 5%;
+	}
 }
 
 @media only screen and (max-width : 480px) {
@@ -602,6 +683,269 @@ tr:last-child td.last {
 		display: none;
 	}
 }
+
+@media only screen and (max-width : 460px){
+
+	.intro{
+		width: 460px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 450px){
+
+	.intro{
+		width: 450px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 440px){
+
+	.intro{
+		width: 440px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 430px){
+
+	.intro{
+		width: 430px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 420px){
+
+	.intro{
+		width: 420px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 410px){
+
+	.intro{
+		width: 410px; 
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 15%;
+	}
+}
+
+@media only screen and (max-width : 400px){
+
+	.header__logo{
+		margin-left: 13%;
+	}
+
+	.intro{
+		width: 400px; 
+	}
+
+	.intro__title{
+		margin-top: 90%;
+		font-size: 45px;
+	}
+
+	.intro__subtitle{
+		font-size: 22px;
+		margin-left: 0%;
+	}
+
+	.btn{
+		margin-left: 10%;
+	}
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 12%;
+	}
+}
+
+@media only screen and (max-width : 395px){
+
+	.header__logo{
+		margin-left: 13%;
+	}
+
+	.intro{
+		width: 395px; 
+	}
+
+	.intro__title{
+		margin-top: 90%;
+		font-size: 45px;
+	}
+
+	.intro__subtitle{
+		font-size: 22px;
+		margin-left: 0%;
+	}
+
+	.btn{
+		margin-left: 10%;
+	}
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 12%;
+	}
+}
+
+@media only screen and (max-width : 385px){
+
+	.header__logo{
+		margin-left: 8%;
+	}
+
+	.intro{
+		width: 385px; 
+	}
+
+	.intro__title{
+		margin-top: 90%;
+		font-size: 40px;
+	}
+
+	.intro__subtitle{
+		margin-left: 0px;
+	}
+
+	.intro__inner{
+		margin-left: 0px;
+	}
+
+	.btn{
+		margin-left: 28px;
+	}
+
+	.history__text{
+		margin-left: 1%;
+	}
+
+	.fichers__icon{
+		width: 120px;
+		height: 120px;
+		margin-left: 37%;
+	}
+
+	.rules__title{
+		font-size: 25px;
+	}
+
+	.prices{
+		display: none;
+	}
+
+	.tabletwo{
+		display: block;
+		visibility: visible;
+		position: static;
+	}
+
+	table{
+		margin-left: 9%;
+	}
+
+	.con__name{
+		margin-left: 3px;
+	}
+}
+
 
 @media only screen and (max-width : 375px){
 
@@ -795,12 +1139,13 @@ tr:last-child td.last {
 	}
 
 	.prices{
+		display: none;
 		
 	}
 
 	.tabletwo{
-		
-		visibility: hidden;
+		display: block;
+		visibility: visible;
 	}
 
 	table{
